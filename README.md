@@ -2,9 +2,6 @@
 
 _It is a little game I built when following the tutorial provided by freeCodeCamp_
 
-it's a little
-This project was
-
 ## The game is easy to play, though it's not optimized for running on mobile.
 
 ## Check out the results here -> Link-to-Play
