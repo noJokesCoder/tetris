@@ -6,7 +6,7 @@ _It is a little game I built when following the tutorial provided by freeCodeCam
 
 ## The game is easy to play, though it's not optimized for running on mobile.
 
-## Check out the results here -> [Link-to-play]
+## Check out the results here -> https://tetris-game-onreact.netlify.app
 
 ## Tech stack in the project:
 
@@ -14,7 +14,7 @@ _It is a little game I built when following the tutorial provided by freeCodeCam
 - React hooks
 - Styled-componets ("CSS-in-JS")
 - React.memo()
-- Netlify (hosting)
+- Netlify (for hosting)
 
 ## Short memo for myself:
 
@@ -23,6 +23,3 @@ _It is a little game I built when following the tutorial provided by freeCodeCam
 > how to import fonts with @font-face value,
 > how to structure the project in overall and
 > that React may not be the best option for building games =-)
-
-[//]: # "just a link here:"
-[Link-to-play]: <http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax>
