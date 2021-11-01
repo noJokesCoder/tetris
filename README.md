@@ -22,4 +22,6 @@ _It is a little game I built when following the tutorial provided by freeCodeCam
 > how to structure the project in overall and
 > that React may not be the best option for building games =-)
 
+[//]:
+
 [link-to-play]:
