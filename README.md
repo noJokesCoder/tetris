@@ -6,7 +6,7 @@ _It is a little game I built when following the tutorial provided by freeCodeCam
 
 ## The game is easy to play, though it's not optimized for running on mobile.
 
-## Check out the results here -> Link-to-Play
+## Check out the results here -> [Link-to-play]
 
 ## Tech stack in the project:
 
