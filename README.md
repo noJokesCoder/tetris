@@ -4,9 +4,17 @@
 
 _It is a little game I built when following the tutorial provided by freeCodeCamp_
 
-## The game is easy to play, though it's not optimized for running on mobile.
+### The game is easy to play, though it's only playable on desktop.
 
-## Check out the results here -> https://tetris-game-onreact.netlify.app
+### Check out the results here -> https://tetris-game-onreact.netlify.app
+
+### Project's cross-device optimization table:
+
+| Device | Optimized for the specified device |
+| ------ | ------ |
+| **Mobile** | ❌ NO  |
+| **Tablet** | ❌ NO  |
+| **Desktop** | ✅ YES |
 
 ## Tech stack in the project:
 
