@@ -25,4 +25,4 @@ _It is a little game I built when following the tutorial provided by freeCodeCam
 > that React may not be the best option for building games =-)
 
 [//]: # "just a link here:"
-[link-to-play]: http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax
+[Link-to-play]: <http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax>
